@@ -17,7 +17,7 @@ const showForm = () => {
       <div class="closeButton">
         <img src="images/close.png" alt="closeButton">
       </div>
-      <p class='mail'>lukasz.aleksandrowicz@allcon.pl</p>
+      <p class='mail'>lukasz.aleksandrowicz11@gmail.com</p>
       <div class="images">
         <a href="https://www.linkedin.com/in/%C5%82ukasz-aleksandrowicz-08926b245/">
           <img src="images/linkedin.png" alt="linkedin">
